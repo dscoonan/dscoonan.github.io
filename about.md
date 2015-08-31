@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A senior with only one semester to go.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+I generally refrain from putting my email on the internets.  but you can email me at
+dsc995@fakeEmail.com.
